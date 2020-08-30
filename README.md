@@ -5,9 +5,9 @@ Penn Cyber ELK Stack Project
 
 The files in this repository were used to configure the network depicted below.
 
-**Note**: The following image link needs to be updated. Replace `diagram_filename.png` with the name of your diagram image file.  
+**Note**: The following image link needs to be updated. Replace `elk_project_diagram.png` with the name of your diagram image file.  
 
-![TODO: Update the path with the name of your diagram](Images/diagram_filename.png)
+![elk_project_diagram.png](https://github.com/zbishop406/ELK/blob/master/elk_project_diagram.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the `elk_config.yml` file may be used to install only certain pieces of it, such as Filebeat.
 
