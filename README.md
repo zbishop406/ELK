@@ -87,5 +87,5 @@ In order to use the playbook, you will need to have an Ansible control node alre
 
 SSH into the control node and follow the steps below:
 - Copy the /etc/ansible/files/filebeat-config.yml file to /etc/filebeat/filebeat.yml.
-- Update the /etc/filebeat/filebeat.yml file to include...the IP address of the ELK VM (40.113.204.95).
+- Update the /etc/filebeat/filebeat.yml file to include the IP address of the ELK VM (40.113.204.95).
 - Run the playbook using the ansible-playbook filebeat.yml command, and navigate to http://40.113.204.95:5601/app/kibana to check that the installation worked as expected.
