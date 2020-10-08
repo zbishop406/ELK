@@ -12,7 +12,7 @@ These files have been tested and used to generate a live ELK deployment on Azure
 ![elk_config.yml](https://github.com/zbishop406/ELK/blob/master/elk_config.yml)
 
 This document contains the following details:
-- Description of the Topologu
+- Description of the Topology
 - Access Policies
 - ELK Configuration
   - Beats in Use
